@@ -1,7 +1,7 @@
 # Hello humans 👋
 Nice to meet you. I'm Enoch and I love to learn new things, writing React code and debugging difficult problems (I call it my Sherlock zone when I'm bug hunting and solving🕵🏾‍♂️)
 
-Currently working at [expressPay Ghana](https://expresspaygh.com) as a Software Engineer with a focus on Frontend solutions. You can reach out through my email if you'll like to connect. Have a great day😀
+You can reach out through my email if you'll like to connect. Have a great day😀
 
 <!--
 **enochN/enochN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
