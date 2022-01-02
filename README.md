@@ -1,7 +1,7 @@
 # Hello humans 👋
 Nice to meet you. I'm Enoch, a full-stack software engineer and I specialize in designing and building browser-based front-end software. Domains of experience include e-commerce, fintech and healthtech. 
 
-- 🌱 I’m currently learning Domain Driven Design and Rust.
+- 🌱 I’m currently exploring various front-end architecture patterns and Rust.
 - 👯 I’m looking to collaborate on open-source healthcare and e-commerce projects. Have a lot of experience there and looking to deepen it too.
 - 🤔 I’m looking for help in learning from people and organizations doing engineering with really high standards of craftsmanship. 
 - 💬 Ask me about building React-based frontend software.
