@@ -5,7 +5,6 @@ Nice to meet you. I'm Enoch, a full-stack software engineer and I specialize in 
 - 👯 I’m looking to collaborate on open-source healthcare and e-commerce projects. Have a lot of experience there and looking to deepen it too.
 - 🤔 I’m looking for help in learning from people and organizations doing engineering with really high standards of craftsmanship. 
 - 💬 Ask me about building React-based frontend software.
-- 📫 How to reach me: nyakoapps@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I LOVE acting in stage plays, battle rap and the writings of bell hooks and C.S. Lewis. 
 
